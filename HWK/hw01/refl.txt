@@ -1,0 +1,23 @@
+Assignment 1 reflections.
+
+Please answer the questions below:
+
+1. How did this assignment go for you? (Please write several sentences.)
+This assignment requires a bit of time for me to think and check certain points on
+the textbook. Meanwhile, I spent almost half an hour trying to debug a printing issue
+(when operation gets printed the second time I can't input characters: it was like
+"Enter an operation:Enter a number:"). Even though I solved the problem by putting
+a space before scanf, I still did not why it was causing this problem. Oh now I know why!
+didn’t read professor’s last line of note…
+
+2. What was hard about this assignment?
+The last question was a bit complicated required me to refer back to textbook for
+guidance while the first three questions are intuitive, but I needed a bit time to
+think of the algorithms since it has been a while since last time I wrote programs.
+
+3. What would you like to know more about?
+I would like to know more detail about how c cooperates with computer and run programs
+on it.
+
+4. How long did this assignment take you? (Do not include time spent on the readings.)
+approximately 3 hours.
