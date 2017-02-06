@@ -1,0 +1,16 @@
+Assignment 2 reflections.
+
+Please answer the questions below:
+
+1. How did this assignment go for you? (Please write several sentences.)
+  The first four assignments are relatively simple program that help us strengthen
+  concepts that have occurred in readings. However, the last two assignments are
+  more complex and requires a lot of thinking.
+2. What was hard about this assignment?
+  The workload is fairly reasonable, but since I am taking 380 and 246 concurrently
+  the workload was overwhelming with these two combined.
+3. What would you like to know more about?
+  I would like to learn more about how to use pointers and dynamically allocate
+  arrays in c. That way it may be easier for me to implement the last question.
+4. How long did this assignment take you? (Do not include time spent on the readings.)
+  About 8 hours.
